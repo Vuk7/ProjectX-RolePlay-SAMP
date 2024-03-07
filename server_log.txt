@@ -1,0 +1,76 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:50] filterscripts = ""  (string)
+[19:48:50] 
+[19:48:50] Server Plugins
+[19:48:50] --------------
+[19:48:50]  Loading plugin: sscanf
+[19:48:50] 
+
+[19:48:50]  ===============================
+
+[19:48:50]       sscanf plugin loaded.     
+
+[19:48:50]          Version:  2.8.3        
+
+[19:48:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:48:50]  ===============================
+
+[19:48:50]   Loaded.
+[19:48:50]  Loading plugin: streamer
+[19:48:50] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:48:50]   Loaded.
+[19:48:50]  Loaded 2 plugins.
+
+[19:48:50] 
+[19:48:50] Filterscripts
+[19:48:50] ---------------
+[19:48:50]   Loaded 0 filterscripts.
+
+[19:48:50]  
+[19:48:50]  
+[19:48:50]  
+[19:48:50]  ======================================= 
+[19:48:50]  |                                     | 
+[19:48:50]  |        YSI version 3.09.0684        | 
+[19:48:50]  |        By Alex "Y_Less" Cole        | 
+[19:48:50]  |                                     | 
+[19:48:50]  ======================================= 
+[19:48:50]  
+[19:48:50]  
+[19:48:50]  
+[19:48:51] 
+--------------------------------------
+[19:48:51]  Mape uspjesno ucitane!
+[19:48:51] --------------------------------------
+
+[19:48:51]   Filterscript 'mapa.amx' loaded.
+[19:48:51] Ucitano 37 biznisa!
+[19:48:51] Podesavanja servera ucitana
+[19:48:51] Ucitano 19 teleporta!
+[19:48:51] Ucitano 11 gps lokacija!
+[19:48:51] Ucitano 17 bankomata!
+[19:48:51] Kreirano 5 poslova!
+[19:48:51] Ucitano 505 kuca!
+[19:48:51] Ucitano 29 benzinska!
+[19:48:51] Kreirano 10 organizacija!
+[19:48:51] Ucitano 56 rent vozila!
+[19:48:51] Kreirano 13 zona!
+[19:48:51] Ucitano 0 stanova!
+[19:48:51] 
+----------------------------------
+[19:48:51]  ProjectX by Vuk 
+[19:48:51] ----------------------------------
+
+[19:48:51] Number of vehicle models: 39
